@@ -1,0 +1,13 @@
+.idea/*
+
+.DS_Store
+
+./logs/*
+
+./examples/logs/*
+
+./play_around/logs/*
+
+./MNIST_data/*
+
+./examples/for_transfer_learning/*
