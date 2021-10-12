@@ -44,7 +44,7 @@ mujoco-py==1.50.1.56
 numba==0.38.0
 numexpr==2.6.5
 numpy==1.14.3
-opencv-python==3.4.0.12
+opencv-python==3.4.7.28
 pandas==0.21.1
 pathlib2==2.3.0
 pbr==4.0.2
